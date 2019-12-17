@@ -1,4 +1,4 @@
-這次期末作業希望以打磚塊的遊戲來呈現  
+這次期末作業希望以打磚塊的遊戲來呈現  
 首先附上reference:http://breakout.enclavegames.com/  
 這次的code架構大多都是建立在以上ref的step by step的tutorial完成的  
 那我的更動如下：  
