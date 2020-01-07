@@ -1,0 +1,573 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		B026969223C474CB005CD8EF /* 23.png in Resources */ = {isa = PBXBuildFile; fileRef = B026966423C474C7005CD8EF /* 23.png */; };
+		B026969323C474CB005CD8EF /* car.png in Resources */ = {isa = PBXBuildFile; fileRef = B026966523C474C7005CD8EF /* car.png */; };
+		B026969423C474CB005CD8EF /* 17.png in Resources */ = {isa = PBXBuildFile; fileRef = B026966623C474C7005CD8EF /* 17.png */; };
+		B026969523C474CB005CD8EF /* mythica.wav in Resources */ = {isa = PBXBuildFile; fileRef = B026966723C474C7005CD8EF /* mythica.wav */; };
+		B026969623C474CB005CD8EF /* settings.png in Resources */ = {isa = PBXBuildFile; fileRef = B026966823C474C7005CD8EF /* settings.png */; };
+		B026969723C474CB005CD8EF /* settings2.png in Resources */ = {isa = PBXBuildFile; fileRef = B026966923C474C7005CD8EF /* settings2.png */; };
+		B026969823C474CB005CD8EF /* theme.wav in Resources */ = {isa = PBXBuildFile; fileRef = B026966A23C474C7005CD8EF /* theme.wav */; };
+		B026969923C474CB005CD8EF /* 16.png in Resources */ = {isa = PBXBuildFile; fileRef = B026966B23C474C7005CD8EF /* 16.png */; };
+		B026969A23C474CB005CD8EF /* death.wav in Resources */ = {isa = PBXBuildFile; fileRef = B026966C23C474C7005CD8EF /* death.wav */; };
+		B026969B23C474CB005CD8EF /* councilMan2.png in Resources */ = {isa = PBXBuildFile; fileRef = B026966D23C474C7005CD8EF /* councilMan2.png */; };
+		B026969C23C474CB005CD8EF /* 11.png in Resources */ = {isa = PBXBuildFile; fileRef = B026966E23C474C8005CD8EF /* 11.png */; };
+		B026969D23C474CB005CD8EF /* beginning.wav in Resources */ = {isa = PBXBuildFile; fileRef = B026966F23C474C8005CD8EF /* beginning.wav */; };
+		B026969E23C474CB005CD8EF /* councilMan1.png in Resources */ = {isa = PBXBuildFile; fileRef = B026967023C474C8005CD8EF /* councilMan1.png */; };
+		B026969F23C474CB005CD8EF /* 24.png in Resources */ = {isa = PBXBuildFile; fileRef = B026967123C474C8005CD8EF /* 24.png */; };
+		B02696A023C474CB005CD8EF /* lightbulb.png in Resources */ = {isa = PBXBuildFile; fileRef = B026967223C474C8005CD8EF /* lightbulb.png */; };
+		B02696A123C474CB005CD8EF /* trap2.png in Resources */ = {isa = PBXBuildFile; fileRef = B026967323C474C8005CD8EF /* trap2.png */; };
+		B02696A223C474CB005CD8EF /* net.png in Resources */ = {isa = PBXBuildFile; fileRef = B026967423C474C8005CD8EF /* net.png */; };
+		B02696A323C474CB005CD8EF /* 5.png in Resources */ = {isa = PBXBuildFile; fileRef = B026967523C474C8005CD8EF /* 5.png */; };
+		B02696A423C474CB005CD8EF /* CNY.png in Resources */ = {isa = PBXBuildFile; fileRef = B026967623C474C8005CD8EF /* CNY.png */; };
+		B02696A523C474CB005CD8EF /* 15.png in Resources */ = {isa = PBXBuildFile; fileRef = B026967723C474C8005CD8EF /* 15.png */; };
+		B02696A623C474CB005CD8EF /* 7.png in Resources */ = {isa = PBXBuildFile; fileRef = B026967823C474C8005CD8EF /* 7.png */; };
+		B02696A723C474CB005CD8EF /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = B026967923C474C9005CD8EF /* 4.png */; };
+		B02696A823C474CB005CD8EF /* 14.png in Resources */ = {isa = PBXBuildFile; fileRef = B026967A23C474C9005CD8EF /* 14.png */; };
+		B02696A923C474CB005CD8EF /* 12.png in Resources */ = {isa = PBXBuildFile; fileRef = B026967B23C474C9005CD8EF /* 12.png */; };
+		B02696AA23C474CB005CD8EF /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = B026967C23C474C9005CD8EF /* 3.png */; };
+		B02696AB23C474CB005CD8EF /* 22.png in Resources */ = {isa = PBXBuildFile; fileRef = B026967D23C474C9005CD8EF /* 22.png */; };
+		B02696AC23C474CB005CD8EF /* 9.png in Resources */ = {isa = PBXBuildFile; fileRef = B026967E23C474C9005CD8EF /* 9.png */; };
+		B02696AD23C474CB005CD8EF /* 18.png in Resources */ = {isa = PBXBuildFile; fileRef = B026967F23C474C9005CD8EF /* 18.png */; };
+		B02696AE23C474CB005CD8EF /* opensans_regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B026968023C474C9005CD8EF /* opensans_regular.ttf */; };
+		B02696AF23C474CB005CD8EF /* roboto_regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B026968123C474C9005CD8EF /* roboto_regular.ttf */; };
+		B02696B023C474CB005CD8EF /* shoot.wav in Resources */ = {isa = PBXBuildFile; fileRef = B026968223C474C9005CD8EF /* shoot.wav */; };
+		B02696B123C474CB005CD8EF /* 6.png in Resources */ = {isa = PBXBuildFile; fileRef = B026968323C474C9005CD8EF /* 6.png */; };
+		B02696B223C474CB005CD8EF /* S31-Night Prowler.wav in Resources */ = {isa = PBXBuildFile; fileRef = B026968423C474CA005CD8EF /* S31-Night Prowler.wav */; };
+		B02696B323C474CB005CD8EF /* 19.png in Resources */ = {isa = PBXBuildFile; fileRef = B026968523C474CA005CD8EF /* 19.png */; };
+		B02696B423C474CB005CD8EF /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = B026968623C474CA005CD8EF /* 1.png */; };
+		B02696B523C474CB005CD8EF /* main-bg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B026968723C474CA005CD8EF /* main-bg.jpg */; };
+		B02696B623C474CB005CD8EF /* arial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B026968823C474CA005CD8EF /* arial.ttf */; };
+		B02696B723C474CB005CD8EF /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = B026968923C474CA005CD8EF /* 2.png */; };
+		B02696B823C474CB005CD8EF /* 20.png in Resources */ = {isa = PBXBuildFile; fileRef = B026968A23C474CA005CD8EF /* 20.png */; };
+		B02696B923C474CB005CD8EF /* 8.png in Resources */ = {isa = PBXBuildFile; fileRef = B026968B23C474CA005CD8EF /* 8.png */; };
+		B02696BA23C474CB005CD8EF /* 13.png in Resources */ = {isa = PBXBuildFile; fileRef = B026968C23C474CA005CD8EF /* 13.png */; };
+		B02696BB23C474CB005CD8EF /* 21.png in Resources */ = {isa = PBXBuildFile; fileRef = B026968D23C474CA005CD8EF /* 21.png */; };
+		B02696BC23C474CB005CD8EF /* pirulen.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B026968E23C474CA005CD8EF /* pirulen.ttf */; };
+		B02696BD23C474CB005CD8EF /* principle.png in Resources */ = {isa = PBXBuildFile; fileRef = B026968F23C474CB005CD8EF /* principle.png */; };
+		B02696BE23C474CB005CD8EF /* start-bg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B026969023C474CB005CD8EF /* start-bg.jpg */; };
+		B02696BF23C474CB005CD8EF /* 10.png in Resources */ = {isa = PBXBuildFile; fileRef = B026969123C474CB005CD8EF /* 10.png */; };
+		B0B818E823A8A6DA0010654F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B0B818E723A8A6DA0010654F /* Assets.xcassets */; };
+		B0B818EB23A8A6DA0010654F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B0B818E923A8A6DA0010654F /* Main.storyboard */; };
+		B0B8191123A8A79B0010654F /* liballegro_acodec.5.2.5.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = B0B818F523A8A77E0010654F /* liballegro_acodec.5.2.5.dylib */; };
+		B0B8191223A8A79B0010654F /* liballegro_audio.5.2.5.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = B0B818F923A8A77F0010654F /* liballegro_audio.5.2.5.dylib */; };
+		B0B8191323A8A79B0010654F /* liballegro_color.5.2.5.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = B0B818FF23A8A77F0010654F /* liballegro_color.5.2.5.dylib */; };
+		B0B8191423A8A79B0010654F /* liballegro_dialog.5.2.5.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = B0B8190023A8A77F0010654F /* liballegro_dialog.5.2.5.dylib */; };
+		B0B8191523A8A79B0010654F /* liballegro_font.5.2.5.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = B0B818FA23A8A77F0010654F /* liballegro_font.5.2.5.dylib */; };
+		B0B8191623A8A79B0010654F /* liballegro_image.5.2.5.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = B0B818FB23A8A77F0010654F /* liballegro_image.5.2.5.dylib */; };
+		B0B8191723A8A79B0010654F /* liballegro_main.5.2.5.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = B0B818FE23A8A77F0010654F /* liballegro_main.5.2.5.dylib */; };
+		B0B8191823A8A79B0010654F /* liballegro_memfile.5.2.5.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = B0B818F723A8A77F0010654F /* liballegro_memfile.5.2.5.dylib */; };
+		B0B8191923A8A79B0010654F /* liballegro_physfs.5.2.5.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = B0B818FD23A8A77F0010654F /* liballegro_physfs.5.2.5.dylib */; };
+		B0B8191A23A8A79B0010654F /* liballegro_primitives.5.2.5.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = B0B818FC23A8A77F0010654F /* liballegro_primitives.5.2.5.dylib */; };
+		B0B8191B23A8A79B0010654F /* liballegro_ttf.5.2.5.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = B0B818F823A8A77F0010654F /* liballegro_ttf.5.2.5.dylib */; };
+		B0B8191C23A8A79B0010654F /* liballegro_video.5.2.5.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = B0B818F623A8A77E0010654F /* liballegro_video.5.2.5.dylib */; };
+		B0B8191D23A8A79B0010654F /* liballegro.5.2.5.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = B0B8190123A8A77F0010654F /* liballegro.5.2.5.dylib */; };
+		B0B8191F23A8A7EA0010654F /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B0B8191E23A8A7EA0010654F /* main.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		B026966423C474C7005CD8EF /* 23.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 23.png; path = "../../../Downloads/source materials/cat/23.png"; sourceTree = "<group>"; };
+		B026966523C474C7005CD8EF /* car.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = car.png; path = "../../../Downloads/source materials/weapon/car.png"; sourceTree = "<group>"; };
+		B026966623C474C7005CD8EF /* 17.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 17.png; path = "../../../Downloads/source materials/cat/17.png"; sourceTree = "<group>"; };
+		B026966723C474C7005CD8EF /* mythica.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = mythica.wav; path = "../../../Downloads/2_wav_files (online-audio-converter.com) 2/mythica.wav"; sourceTree = "<group>"; };
+		B026966823C474C7005CD8EF /* settings.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = settings.png; path = ../../../Downloads/settings.png; sourceTree = "<group>"; };
+		B026966923C474C7005CD8EF /* settings2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = settings2.png; path = ../../../Downloads/settings2.png; sourceTree = "<group>"; };
+		B026966A23C474C7005CD8EF /* theme.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = theme.wav; path = "../../../Downloads/source materials/audios/theme.wav"; sourceTree = "<group>"; };
+		B026966B23C474C7005CD8EF /* 16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 16.png; path = "../../../Downloads/source materials/cat/16.png"; sourceTree = "<group>"; };
+		B026966C23C474C7005CD8EF /* death.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = death.wav; path = "../../../Downloads/source materials/audios/death.wav"; sourceTree = "<group>"; };
+		B026966D23C474C7005CD8EF /* councilMan2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = councilMan2.png; path = "../../../Downloads/source materials/councilMan/councilMan2.png"; sourceTree = "<group>"; };
+		B026966E23C474C8005CD8EF /* 11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 11.png; path = "../../../Downloads/source materials/cat/11.png"; sourceTree = "<group>"; };
+		B026966F23C474C8005CD8EF /* beginning.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = beginning.wav; path = "../../../Downloads/source materials/audios/beginning.wav"; sourceTree = "<group>"; };
+		B026967023C474C8005CD8EF /* councilMan1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = councilMan1.png; path = "../../../Downloads/source materials/councilMan/councilMan1.png"; sourceTree = "<group>"; };
+		B026967123C474C8005CD8EF /* 24.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 24.png; path = "../../../Downloads/source materials/cat/24.png"; sourceTree = "<group>"; };
+		B026967223C474C8005CD8EF /* lightbulb.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = lightbulb.png; path = "../../../Downloads/source materials/background/lightbulb.png"; sourceTree = "<group>"; };
+		B026967323C474C8005CD8EF /* trap2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = trap2.png; path = "../../../Downloads/source materials/weapon/trap2.png"; sourceTree = "<group>"; };
+		B026967423C474C8005CD8EF /* net.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = net.png; path = "../../../Downloads/source materials/weapon/net.png"; sourceTree = "<group>"; };
+		B026967523C474C8005CD8EF /* 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 5.png; path = "../../../Downloads/source materials/cat/5.png"; sourceTree = "<group>"; };
+		B026967623C474C8005CD8EF /* CNY.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = CNY.png; path = "../../../Downloads/source materials/weapon/CNY.png"; sourceTree = "<group>"; };
+		B026967723C474C8005CD8EF /* 15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 15.png; path = "../../../Downloads/source materials/cat/15.png"; sourceTree = "<group>"; };
+		B026967823C474C8005CD8EF /* 7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 7.png; path = "../../../Downloads/source materials/cat/7.png"; sourceTree = "<group>"; };
+		B026967923C474C9005CD8EF /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 4.png; path = "../../../Downloads/source materials/cat/4.png"; sourceTree = "<group>"; };
+		B026967A23C474C9005CD8EF /* 14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 14.png; path = "../../../Downloads/source materials/cat/14.png"; sourceTree = "<group>"; };
+		B026967B23C474C9005CD8EF /* 12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 12.png; path = "../../../Downloads/source materials/cat/12.png"; sourceTree = "<group>"; };
+		B026967C23C474C9005CD8EF /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 3.png; path = "../../../Downloads/source materials/cat/3.png"; sourceTree = "<group>"; };
+		B026967D23C474C9005CD8EF /* 22.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 22.png; path = "../../../Downloads/source materials/cat/22.png"; sourceTree = "<group>"; };
+		B026967E23C474C9005CD8EF /* 9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 9.png; path = "../../../Downloads/source materials/cat/9.png"; sourceTree = "<group>"; };
+		B026967F23C474C9005CD8EF /* 18.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 18.png; path = "../../../Downloads/source materials/cat/18.png"; sourceTree = "<group>"; };
+		B026968023C474C9005CD8EF /* opensans_regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = opensans_regular.ttf; path = "../../../Downloads/source materials/fonts/opensans_regular.ttf"; sourceTree = "<group>"; };
+		B026968123C474C9005CD8EF /* roboto_regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = roboto_regular.ttf; path = "../../../Downloads/source materials/fonts/roboto_regular.ttf"; sourceTree = "<group>"; };
+		B026968223C474C9005CD8EF /* shoot.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = shoot.wav; path = "../../../Downloads/source materials/audios/shoot.wav"; sourceTree = "<group>"; };
+		B026968323C474C9005CD8EF /* 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 6.png; path = "../../../Downloads/source materials/cat/6.png"; sourceTree = "<group>"; };
+		B026968423C474CA005CD8EF /* S31-Night Prowler.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = "S31-Night Prowler.wav"; path = "../../../Downloads/2_wav_files (online-audio-converter.com) 2/S31-Night Prowler.wav"; sourceTree = "<group>"; };
+		B026968523C474CA005CD8EF /* 19.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 19.png; path = "../../../Downloads/source materials/cat/19.png"; sourceTree = "<group>"; };
+		B026968623C474CA005CD8EF /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 1.png; path = "../../../Downloads/source materials/cat/1.png"; sourceTree = "<group>"; };
+		B026968723C474CA005CD8EF /* main-bg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "main-bg.jpg"; path = "../../../Downloads/source materials/background/main-bg.jpg"; sourceTree = "<group>"; };
+		B026968823C474CA005CD8EF /* arial.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = arial.ttf; path = "../../../Downloads/source materials/fonts/arial.ttf"; sourceTree = "<group>"; };
+		B026968923C474CA005CD8EF /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 2.png; path = "../../../Downloads/source materials/cat/2.png"; sourceTree = "<group>"; };
+		B026968A23C474CA005CD8EF /* 20.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 20.png; path = "../../../Downloads/source materials/cat/20.png"; sourceTree = "<group>"; };
+		B026968B23C474CA005CD8EF /* 8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 8.png; path = "../../../Downloads/source materials/cat/8.png"; sourceTree = "<group>"; };
+		B026968C23C474CA005CD8EF /* 13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 13.png; path = "../../../Downloads/source materials/cat/13.png"; sourceTree = "<group>"; };
+		B026968D23C474CA005CD8EF /* 21.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 21.png; path = "../../../Downloads/source materials/cat/21.png"; sourceTree = "<group>"; };
+		B026968E23C474CA005CD8EF /* pirulen.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = pirulen.ttf; path = "../../../Downloads/source materials/fonts/pirulen.ttf"; sourceTree = "<group>"; };
+		B026968F23C474CB005CD8EF /* principle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = principle.png; path = "../../../Downloads/source materials/principle/principle.png"; sourceTree = "<group>"; };
+		B026969023C474CB005CD8EF /* start-bg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "start-bg.jpg"; path = "../../../Downloads/source materials/background/start-bg.jpg"; sourceTree = "<group>"; };
+		B026969123C474CB005CD8EF /* 10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 10.png; path = "../../../Downloads/source materials/cat/10.png"; sourceTree = "<group>"; };
+		B0B818DE23A8A6D70010654F /* final project.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "final project.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B0B818E723A8A6DA0010654F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		B0B818EA23A8A6DA0010654F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		B0B818EC23A8A6DA0010654F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B0B818EF23A8A6DA0010654F /* final_project.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = final_project.entitlements; sourceTree = "<group>"; };
+		B0B818F523A8A77E0010654F /* liballegro_acodec.5.2.5.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = liballegro_acodec.5.2.5.dylib; path = ../../../../../usr/local/Cellar/allegro/5.2.5.0/lib/liballegro_acodec.5.2.5.dylib; sourceTree = "<group>"; };
+		B0B818F623A8A77E0010654F /* liballegro_video.5.2.5.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = liballegro_video.5.2.5.dylib; path = ../../../../../usr/local/Cellar/allegro/5.2.5.0/lib/liballegro_video.5.2.5.dylib; sourceTree = "<group>"; };
+		B0B818F723A8A77F0010654F /* liballegro_memfile.5.2.5.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = liballegro_memfile.5.2.5.dylib; path = ../../../../../usr/local/Cellar/allegro/5.2.5.0/lib/liballegro_memfile.5.2.5.dylib; sourceTree = "<group>"; };
+		B0B818F823A8A77F0010654F /* liballegro_ttf.5.2.5.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = liballegro_ttf.5.2.5.dylib; path = ../../../../../usr/local/Cellar/allegro/5.2.5.0/lib/liballegro_ttf.5.2.5.dylib; sourceTree = "<group>"; };
+		B0B818F923A8A77F0010654F /* liballegro_audio.5.2.5.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = liballegro_audio.5.2.5.dylib; path = ../../../../../usr/local/Cellar/allegro/5.2.5.0/lib/liballegro_audio.5.2.5.dylib; sourceTree = "<group>"; };
+		B0B818FA23A8A77F0010654F /* liballegro_font.5.2.5.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = liballegro_font.5.2.5.dylib; path = ../../../../../usr/local/Cellar/allegro/5.2.5.0/lib/liballegro_font.5.2.5.dylib; sourceTree = "<group>"; };
+		B0B818FB23A8A77F0010654F /* liballegro_image.5.2.5.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = liballegro_image.5.2.5.dylib; path = ../../../../../usr/local/Cellar/allegro/5.2.5.0/lib/liballegro_image.5.2.5.dylib; sourceTree = "<group>"; };
+		B0B818FC23A8A77F0010654F /* liballegro_primitives.5.2.5.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = liballegro_primitives.5.2.5.dylib; path = ../../../../../usr/local/Cellar/allegro/5.2.5.0/lib/liballegro_primitives.5.2.5.dylib; sourceTree = "<group>"; };
+		B0B818FD23A8A77F0010654F /* liballegro_physfs.5.2.5.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = liballegro_physfs.5.2.5.dylib; path = ../../../../../usr/local/Cellar/allegro/5.2.5.0/lib/liballegro_physfs.5.2.5.dylib; sourceTree = "<group>"; };
+		B0B818FE23A8A77F0010654F /* liballegro_main.5.2.5.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = liballegro_main.5.2.5.dylib; path = ../../../../../usr/local/Cellar/allegro/5.2.5.0/lib/liballegro_main.5.2.5.dylib; sourceTree = "<group>"; };
+		B0B818FF23A8A77F0010654F /* liballegro_color.5.2.5.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = liballegro_color.5.2.5.dylib; path = ../../../../../usr/local/Cellar/allegro/5.2.5.0/lib/liballegro_color.5.2.5.dylib; sourceTree = "<group>"; };
+		B0B8190023A8A77F0010654F /* liballegro_dialog.5.2.5.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = liballegro_dialog.5.2.5.dylib; path = ../../../../../usr/local/Cellar/allegro/5.2.5.0/lib/liballegro_dialog.5.2.5.dylib; sourceTree = "<group>"; };
+		B0B8190123A8A77F0010654F /* liballegro.5.2.5.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = liballegro.5.2.5.dylib; path = ../../../../../usr/local/Cellar/allegro/5.2.5.0/lib/liballegro.5.2.5.dylib; sourceTree = "<group>"; };
+		B0B8191E23A8A7EA0010654F /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		B0B818DB23A8A6D70010654F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B0B8191123A8A79B0010654F /* liballegro_acodec.5.2.5.dylib in Frameworks */,
+				B0B8191223A8A79B0010654F /* liballegro_audio.5.2.5.dylib in Frameworks */,
+				B0B8191323A8A79B0010654F /* liballegro_color.5.2.5.dylib in Frameworks */,
+				B0B8191423A8A79B0010654F /* liballegro_dialog.5.2.5.dylib in Frameworks */,
+				B0B8191523A8A79B0010654F /* liballegro_font.5.2.5.dylib in Frameworks */,
+				B0B8191623A8A79B0010654F /* liballegro_image.5.2.5.dylib in Frameworks */,
+				B0B8191723A8A79B0010654F /* liballegro_main.5.2.5.dylib in Frameworks */,
+				B0B8191823A8A79B0010654F /* liballegro_memfile.5.2.5.dylib in Frameworks */,
+				B0B8191923A8A79B0010654F /* liballegro_physfs.5.2.5.dylib in Frameworks */,
+				B0B8191A23A8A79B0010654F /* liballegro_primitives.5.2.5.dylib in Frameworks */,
+				B0B8191B23A8A79B0010654F /* liballegro_ttf.5.2.5.dylib in Frameworks */,
+				B0B8191C23A8A79B0010654F /* liballegro_video.5.2.5.dylib in Frameworks */,
+				B0B8191D23A8A79B0010654F /* liballegro.5.2.5.dylib in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		B0B818D523A8A6D70010654F = {
+			isa = PBXGroup;
+			children = (
+				B0B8191E23A8A7EA0010654F /* main.cpp */,
+				B026968623C474CA005CD8EF /* 1.png */,
+				B026968923C474CA005CD8EF /* 2.png */,
+				B026967C23C474C9005CD8EF /* 3.png */,
+				B026967923C474C9005CD8EF /* 4.png */,
+				B026967523C474C8005CD8EF /* 5.png */,
+				B026968323C474C9005CD8EF /* 6.png */,
+				B026967823C474C8005CD8EF /* 7.png */,
+				B026968B23C474CA005CD8EF /* 8.png */,
+				B026967E23C474C9005CD8EF /* 9.png */,
+				B026969123C474CB005CD8EF /* 10.png */,
+				B026966E23C474C8005CD8EF /* 11.png */,
+				B026967B23C474C9005CD8EF /* 12.png */,
+				B026968C23C474CA005CD8EF /* 13.png */,
+				B026967A23C474C9005CD8EF /* 14.png */,
+				B026967723C474C8005CD8EF /* 15.png */,
+				B026966B23C474C7005CD8EF /* 16.png */,
+				B026966623C474C7005CD8EF /* 17.png */,
+				B026967F23C474C9005CD8EF /* 18.png */,
+				B026968523C474CA005CD8EF /* 19.png */,
+				B026968A23C474CA005CD8EF /* 20.png */,
+				B026968D23C474CA005CD8EF /* 21.png */,
+				B026967D23C474C9005CD8EF /* 22.png */,
+				B026966423C474C7005CD8EF /* 23.png */,
+				B026967123C474C8005CD8EF /* 24.png */,
+				B026968823C474CA005CD8EF /* arial.ttf */,
+				B026966F23C474C8005CD8EF /* beginning.wav */,
+				B026966523C474C7005CD8EF /* car.png */,
+				B026967623C474C8005CD8EF /* CNY.png */,
+				B026967023C474C8005CD8EF /* councilMan1.png */,
+				B026966D23C474C7005CD8EF /* councilMan2.png */,
+				B026966C23C474C7005CD8EF /* death.wav */,
+				B026967223C474C8005CD8EF /* lightbulb.png */,
+				B026968723C474CA005CD8EF /* main-bg.jpg */,
+				B026966723C474C7005CD8EF /* mythica.wav */,
+				B026967423C474C8005CD8EF /* net.png */,
+				B026968023C474C9005CD8EF /* opensans_regular.ttf */,
+				B026968E23C474CA005CD8EF /* pirulen.ttf */,
+				B026968F23C474CB005CD8EF /* principle.png */,
+				B026968123C474C9005CD8EF /* roboto_regular.ttf */,
+				B026968423C474CA005CD8EF /* S31-Night Prowler.wav */,
+				B026966823C474C7005CD8EF /* settings.png */,
+				B026966923C474C7005CD8EF /* settings2.png */,
+				B026968223C474C9005CD8EF /* shoot.wav */,
+				B026969023C474CB005CD8EF /* start-bg.jpg */,
+				B026966A23C474C7005CD8EF /* theme.wav */,
+				B026967323C474C8005CD8EF /* trap2.png */,
+				B0B818F523A8A77E0010654F /* liballegro_acodec.5.2.5.dylib */,
+				B0B818F923A8A77F0010654F /* liballegro_audio.5.2.5.dylib */,
+				B0B818FF23A8A77F0010654F /* liballegro_color.5.2.5.dylib */,
+				B0B8190023A8A77F0010654F /* liballegro_dialog.5.2.5.dylib */,
+				B0B818FA23A8A77F0010654F /* liballegro_font.5.2.5.dylib */,
+				B0B818FB23A8A77F0010654F /* liballegro_image.5.2.5.dylib */,
+				B0B818FE23A8A77F0010654F /* liballegro_main.5.2.5.dylib */,
+				B0B818F723A8A77F0010654F /* liballegro_memfile.5.2.5.dylib */,
+				B0B818FD23A8A77F0010654F /* liballegro_physfs.5.2.5.dylib */,
+				B0B818FC23A8A77F0010654F /* liballegro_primitives.5.2.5.dylib */,
+				B0B818F823A8A77F0010654F /* liballegro_ttf.5.2.5.dylib */,
+				B0B818F623A8A77E0010654F /* liballegro_video.5.2.5.dylib */,
+				B0B8190123A8A77F0010654F /* liballegro.5.2.5.dylib */,
+				B0B818E023A8A6D70010654F /* final project */,
+				B0B818DF23A8A6D70010654F /* Products */,
+				B0B8191023A8A79B0010654F /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		B0B818DF23A8A6D70010654F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				B0B818DE23A8A6D70010654F /* final project.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		B0B818E023A8A6D70010654F /* final project */ = {
+			isa = PBXGroup;
+			children = (
+				B0B818E723A8A6DA0010654F /* Assets.xcassets */,
+				B0B818E923A8A6DA0010654F /* Main.storyboard */,
+				B0B818EC23A8A6DA0010654F /* Info.plist */,
+				B0B818EF23A8A6DA0010654F /* final_project.entitlements */,
+			);
+			path = "final project";
+			sourceTree = "<group>";
+		};
+		B0B8191023A8A79B0010654F /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		B0B818DD23A8A6D70010654F /* final project */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B0B818F223A8A6DA0010654F /* Build configuration list for PBXNativeTarget "final project" */;
+			buildPhases = (
+				B0B818DA23A8A6D70010654F /* Sources */,
+				B0B818DB23A8A6D70010654F /* Frameworks */,
+				B0B818DC23A8A6D70010654F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "final project";
+			productName = "final project";
+			productReference = B0B818DE23A8A6D70010654F /* final project.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		B0B818D623A8A6D70010654F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1030;
+				ORGANIZATIONNAME = "Ｗayne";
+				TargetAttributes = {
+					B0B818DD23A8A6D70010654F = {
+						CreatedOnToolsVersion = 10.3;
+					};
+				};
+			};
+			buildConfigurationList = B0B818D923A8A6D70010654F /* Build configuration list for PBXProject "final project" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = B0B818D523A8A6D70010654F;
+			productRefGroup = B0B818DF23A8A6D70010654F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				B0B818DD23A8A6D70010654F /* final project */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		B0B818DC23A8A6D70010654F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B02696AD23C474CB005CD8EF /* 18.png in Resources */,
+				B02696A923C474CB005CD8EF /* 12.png in Resources */,
+				B02696B723C474CB005CD8EF /* 2.png in Resources */,
+				B02696B823C474CB005CD8EF /* 20.png in Resources */,
+				B02696AB23C474CB005CD8EF /* 22.png in Resources */,
+				B026969D23C474CB005CD8EF /* beginning.wav in Resources */,
+				B02696B923C474CB005CD8EF /* 8.png in Resources */,
+				B02696BA23C474CB005CD8EF /* 13.png in Resources */,
+				B02696A323C474CB005CD8EF /* 5.png in Resources */,
+				B026969C23C474CB005CD8EF /* 11.png in Resources */,
+				B02696B123C474CB005CD8EF /* 6.png in Resources */,
+				B02696A423C474CB005CD8EF /* CNY.png in Resources */,
+				B026969923C474CB005CD8EF /* 16.png in Resources */,
+				B02696AC23C474CB005CD8EF /* 9.png in Resources */,
+				B026969423C474CB005CD8EF /* 17.png in Resources */,
+				B026969623C474CB005CD8EF /* settings.png in Resources */,
+				B02696BD23C474CB005CD8EF /* principle.png in Resources */,
+				B026969E23C474CB005CD8EF /* councilMan1.png in Resources */,
+				B02696B623C474CB005CD8EF /* arial.ttf in Resources */,
+				B026969323C474CB005CD8EF /* car.png in Resources */,
+				B026969723C474CB005CD8EF /* settings2.png in Resources */,
+				B02696A823C474CB005CD8EF /* 14.png in Resources */,
+				B02696AA23C474CB005CD8EF /* 3.png in Resources */,
+				B02696BC23C474CB005CD8EF /* pirulen.ttf in Resources */,
+				B026969B23C474CB005CD8EF /* councilMan2.png in Resources */,
+				B026969A23C474CB005CD8EF /* death.wav in Resources */,
+				B02696BF23C474CB005CD8EF /* 10.png in Resources */,
+				B02696A723C474CB005CD8EF /* 4.png in Resources */,
+				B026969223C474CB005CD8EF /* 23.png in Resources */,
+				B02696AF23C474CB005CD8EF /* roboto_regular.ttf in Resources */,
+				B02696A223C474CB005CD8EF /* net.png in Resources */,
+				B02696B523C474CB005CD8EF /* main-bg.jpg in Resources */,
+				B02696B323C474CB005CD8EF /* 19.png in Resources */,
+				B0B818E823A8A6DA0010654F /* Assets.xcassets in Resources */,
+				B026969523C474CB005CD8EF /* mythica.wav in Resources */,
+				B02696BB23C474CB005CD8EF /* 21.png in Resources */,
+				B02696AE23C474CB005CD8EF /* opensans_regular.ttf in Resources */,
+				B02696B223C474CB005CD8EF /* S31-Night Prowler.wav in Resources */,
+				B02696BE23C474CB005CD8EF /* start-bg.jpg in Resources */,
+				B02696A623C474CB005CD8EF /* 7.png in Resources */,
+				B0B818EB23A8A6DA0010654F /* Main.storyboard in Resources */,
+				B02696A023C474CB005CD8EF /* lightbulb.png in Resources */,
+				B026969823C474CB005CD8EF /* theme.wav in Resources */,
+				B026969F23C474CB005CD8EF /* 24.png in Resources */,
+				B02696A123C474CB005CD8EF /* trap2.png in Resources */,
+				B02696B023C474CB005CD8EF /* shoot.wav in Resources */,
+				B02696A523C474CB005CD8EF /* 15.png in Resources */,
+				B02696B423C474CB005CD8EF /* 1.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		B0B818DA23A8A6D70010654F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B0B8191F23A8A7EA0010654F /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		B0B818E923A8A6DA0010654F /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B0B818EA23A8A6DA0010654F /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		B0B818F023A8A6DA0010654F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		B0B818F123A8A6DA0010654F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		B0B818F323A8A6DA0010654F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = "final project/final_project.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				HEADER_SEARCH_PATHS = /usr/local/include/;
+				INFOPLIST_FILE = "final project/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					/usr/local/lib/,
+					/usr/local/Cellar/allegro/5.2.5.0/lib,
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "org.yorkxin.playground.final-project";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		B0B818F423A8A6DA0010654F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = "final project/final_project.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				HEADER_SEARCH_PATHS = /usr/local/include/;
+				INFOPLIST_FILE = "final project/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					/usr/local/lib/,
+					/usr/local/Cellar/allegro/5.2.5.0/lib,
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "org.yorkxin.playground.final-project";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		B0B818D923A8A6D70010654F /* Build configuration list for PBXProject "final project" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B0B818F023A8A6DA0010654F /* Debug */,
+				B0B818F123A8A6DA0010654F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B0B818F223A8A6DA0010654F /* Build configuration list for PBXNativeTarget "final project" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B0B818F323A8A6DA0010654F /* Debug */,
+				B0B818F423A8A6DA0010654F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = B0B818D623A8A6D70010654F /* Project object */;
+}
